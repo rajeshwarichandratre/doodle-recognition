@@ -1,0 +1,13 @@
+pip install numpy
+pip install pandas
+pip install keras
+pip install matplotlib
+pip install seaborn
+pip install tensorflow
+pip install tensorflow-probability
+pip install scikit-learn
+pip install simplification
+pip install tqdm
+pip install opencv-python
+pip install Keras-Applications
+pip install Keras-Preprocessing
